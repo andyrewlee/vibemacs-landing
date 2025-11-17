@@ -29,7 +29,7 @@ export default function Home() {
         </pre>
 
         <p className="max-w-2xl text-balance text-base leading-relaxed text-zinc-600 dark:text-zinc-300">
-          emacs config for running multiple codex and claude code agents
+          Emacs config for running multiple Codex, Claude Code and Gemini agents
         </p>
 
         <div className="w-full max-w-4xl">
